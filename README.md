@@ -1,1 +1,1 @@
-# bookmongodb 線上mongodb讀書會
+# 歡迎大家加入線上bookmongodb讀書會
